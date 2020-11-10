@@ -1,5 +1,7 @@
 # foodapp
 
+## a sample vue app made with nuxt.
+
 ## Build Setup
 
 ```bash
